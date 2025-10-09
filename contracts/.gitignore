@@ -1,0 +1,10 @@
+# vscode
+.vscode
+
+# output
+broadcast
+out
+cache
+
+# environment variables
+.env
