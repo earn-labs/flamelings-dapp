@@ -60,6 +60,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Author: [Trashpirate](https://github.com/trashpirate)
 
+EARN Website: [buyholdearn.com](https://buyholdearn.com)
+
 Main Repository: [https://github.com/earn-labs/flamelings-dapp](https://github.com/earn-labs/flamelings-dapp)
 
 Project Link: [https://flamelings.buyholdearn.com/](https://flamelings.buyholdearn.com/)
